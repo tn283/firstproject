@@ -24,3 +24,12 @@ p {font-family:verdana;
   a:visited {
     color: pink;
   }
+.image {
+  weight: 50%;
+  width: 50%;
+}
+
+.inner-image
+  {
+    width: 100%;
+  }
