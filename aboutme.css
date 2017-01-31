@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    color: blue;
+    font-family: verdana;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {font-family:verdana;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+  h1:hover {
+    color: orange;
+  }
+  a:active {
+    background-color: yellow;
+  }
+  a:visited {
+    color: pink;
+  }
